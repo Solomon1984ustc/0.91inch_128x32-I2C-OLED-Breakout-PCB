@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-11-01T15:51:03Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "0.91inch_128x32_oled_i2c_EVM_v1.0"
+        },
+        "Owner": "Shiao Peng <2920956602@qq.com>",
+        "Size": {
+            "X": 9.652,
+            "Y": 37.338
+        }
+    }
+}
