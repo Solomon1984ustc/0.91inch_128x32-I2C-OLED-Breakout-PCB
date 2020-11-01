@@ -10,7 +10,7 @@
 
 ## B.O.M
 
- [ibom.html](bom\ibom.html) 
+ please see bom/ibom.html
 
 ## Oled
 
